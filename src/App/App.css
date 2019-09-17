@@ -1,0 +1,22 @@
+
+.App{
+  height: 100vh;;
+}
+
+.header{
+  height: 60px;
+  background: #008bcc;
+  text-align: left;
+  color: #fff;
+  line-height: 60px;
+  padding-left: 20px;
+  margin: 0px;
+}
+
+.end-content {
+  height: calc(90vh - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
